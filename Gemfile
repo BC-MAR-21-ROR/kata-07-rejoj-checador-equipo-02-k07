@@ -60,3 +60,5 @@ gem "rubocop", "~> 1.12"
 gem "sandi_meter", "~> 1.2"
 
 gem "rubycritic", "~> 4.6"
+
+gem "rspec", "~> 3.10"
