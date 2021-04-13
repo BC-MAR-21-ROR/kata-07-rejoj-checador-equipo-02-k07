@@ -62,3 +62,5 @@ gem "sandi_meter", "~> 1.2"
 gem "rubycritic", "~> 4.6"
 
 gem "rspec", "~> 3.10"
+
+gem "bootstrap_form", "~> 4.0"
