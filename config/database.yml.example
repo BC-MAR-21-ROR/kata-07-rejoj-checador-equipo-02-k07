@@ -9,16 +9,18 @@ default: &default
   encoding: unicode
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   timeout: 5000
+  port: 5432
   
-development:
+development: &development
   <<: *default
-  database: myapp_development
-  username: myapp
-  password: password1
-  port
+  host: example
+  database: example
+  username: example
+  password: x
 
 test:
   <<: *default
-  database: myapp_test
-  username: myapp
-  password: password1
+  host: localhost
+  database: kata_07_testing
+  username: *****
+  password: *****
