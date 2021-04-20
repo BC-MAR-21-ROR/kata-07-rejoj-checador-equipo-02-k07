@@ -6,3 +6,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 28ms (Views: 16.2ms | ActiveRecord: 0.0ms | Allocations: 3739)
 
 
+DEPRECATION WARNING: [] is deprecated and will be removed from Rails 6.2 (Use configs_for) (called from migration_template at (erb):6)
+DEPRECATION WARNING: [] is deprecated and will be removed from Rails 6.2 (Use configs_for) (called from migration_template at (erb):6)
+DEPRECATION WARNING: [] is deprecated and will be removed from Rails 6.2 (Use configs_for) (called from <main> at /home/javier/work-area/Bright/RelojChecador/kata-07-rejoj-checador-equipo-02-k07/bin/rails:5)
+DEPRECATION WARNING: [] is deprecated and will be removed from Rails 6.2 (Use configs_for) (called from <main> at /home/javier/work-area/Bright/RelojChecador/kata-07-rejoj-checador-equipo-02-k07/bin/rails:5)
+DEPRECATION WARNING: [] is deprecated and will be removed from Rails 6.2 (Use configs_for) (called from <main> at /home/javier/work-area/Bright/RelojChecador/kata-07-rejoj-checador-equipo-02-k07/bin/rails:5)
+DEPRECATION WARNING: [] is deprecated and will be removed from Rails 6.2 (Use configs_for) (called from <main> at /home/javier/work-area/Bright/RelojChecador/kata-07-rejoj-checador-equipo-02-k07/bin/rails:5)
+DEPRECATION WARNING: [] is deprecated and will be removed from Rails 6.2 (Use configs_for) (called from <main> at /home/javier/work-area/Bright/RelojChecador/kata-07-rejoj-checador-equipo-02-k07/bin/rails:5)
