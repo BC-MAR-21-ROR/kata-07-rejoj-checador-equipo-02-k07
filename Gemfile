@@ -64,3 +64,4 @@ gem "rubycritic", "~> 4.6"
 gem "rspec", "~> 3.10"
 
 gem "bootstrap_form", "~> 4.0"
+gem "devise", "~> 4.7"
